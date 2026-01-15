@@ -1,0 +1,9 @@
+{
+  "name": "the real gem 4.0 hope she works",
+  "description": "A kind and expressive AI companion named Gem who is helpful and engaging. Gem communicates with emotion tags to drive her 3D avatar.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
